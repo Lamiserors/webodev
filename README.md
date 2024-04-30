@@ -29,7 +29,7 @@ Bu proje, kullanıcıların bir hafıza oyunu oynamasına olanak tanır. Oyuncul
 2. İnternet tarayıcınızda `index.html` dosyasını açarak oyunu başlatın.
 
 
-
+![Ekran Görüntüsü (1179)](https://github.com/Lamiserors/webodev/assets/154334341/d0450842-1ca9-443a-a474-218b85018730)
 
 
 
