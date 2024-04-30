@@ -32,7 +32,7 @@ Bu proje, kullanıcıların bir hafıza oyunu oynamasına olanak tanır. Oyuncul
 ![Ekran Görüntüsü (1179)](https://github.com/Lamiserors/webodev/assets/154334341/d0450842-1ca9-443a-a474-218b85018730)
 
 
-
+![Ekran Görüntüsü (1180)](https://github.com/Lamiserors/webodev/assets/154334341/77928d70-49f1-448b-a024-f41bc9ec15af)
 
 
 
